@@ -1,3 +1,8 @@
+import ReactGA from "react-ga4";
+
+ReactGA.initialize("G-HWNW56RKG1"); // seu ID aqui
+ReactGA.send("pageview");
+
 
 function App() {
 
