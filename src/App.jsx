@@ -84,7 +84,7 @@ function App() {
         <section id="sobre" className="px-6 py-12 bg-blue-900 text-white">
           <h2 className="text-2xl font-bold text-center mb-6">Sobre a Campanha</h2>
           <p className="max-w-3xl mx-auto text-center text-lg">
-            Esta campanha foi desenvolvida por uma estudante do curso de <strong>Sistemas de Informação</strong>, com o objetivo de levar a importância da segurança digital a toda comunidade acadêmica, de forma simples, prática e acessível.
+            Esta campanha foi desenvolvida por Ana Carolina Magalhães, aluna do curso de <strong>Sistemas de Informação</strong>, com o objetivo de levar a importância da segurança digital a toda comunidade acadêmica, de forma simples, prática e acessível.
           </p>
         </section>
 
