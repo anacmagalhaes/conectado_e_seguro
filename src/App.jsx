@@ -1,10 +1,9 @@
-import { Analytics } from "@vercel/analytics/next"
 
 function App() {
 
   return (
     <>
-      <Analytics>
+
         <div className="bg-blue-950 text-white min-h-screen font-sans">
           {/* Header */}
           <header className="flex justify-between items-center px-6 py-4 bg-blue-900 shadow-md sticky top-0 z-50">
@@ -88,7 +87,7 @@ function App() {
             <p className="text-sm">© 2025 - Campanha Conectado e Seguro | Desenvolvido por uma aluna de Sistemas de Informação</p>
           </footer>
         </div>
-      </Analytics>
+
 
     </>
   )
