@@ -91,7 +91,7 @@ function App() {
         {/* Rodapé */}
         <footer className="bg-white text-blue-950 text-center px-6 py-6">
           <p className="mb-2">Segurança digital é pra todos. Começa com você.</p>
-          <p className="text-sm">© 2025 - Campanha Conectado e Seguro | Desenvolvido por uma aluna de Sistemas de Informação</p>
+          <p className="text-sm">© 2025 - Campanha Conectado e Seguro | Desenvolvido por Ana Carolina Magalhães, aluna de Sistemas de Informação</p>
         </footer>
       </div>
 
